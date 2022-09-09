@@ -172,6 +172,14 @@ def send_message(to_user, access_token, region_name, weather, temp, wind_dir, no
             "note_ch": {
                 "value": note_ch,
                 "color": get_color()
+            },
+            "tip1": {
+                "value": "中秋节快乐！🥮         ",
+                "color": get_color()
+            },
+            "tip2": {
+                "value": "周末啦！",
+                "color": get_color()
             }
         }
     }
