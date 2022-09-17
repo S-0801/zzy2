@@ -174,7 +174,7 @@ def send_message(to_user, access_token, region_name, weather, temp, wind_dir, no
                 "color": get_color()
             },
             "tip1": {
-                "value": "周末啦,好好休息！         ",
+                "value": "周末啦,好好休息！记得开心。         ",
                 "color": get_color()
             },
             "tip2": {
